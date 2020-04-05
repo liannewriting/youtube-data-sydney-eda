@@ -1,2 +1,3 @@
 # youtube-data-sydney-eda
-YouTube dataset used for our articles
+For details on how we scraped this dataset, go to https://www.justintodata.com/get-more-youtube-views-with-machine-learning/
+
